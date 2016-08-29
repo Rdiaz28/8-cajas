@@ -1,0 +1,30 @@
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: grey;
+	border: 2px solid black;
+
+}
+
+.contenedor{
+	width: 360px;
+	height: 120px;
+	margin-top: 0px;
+
+}
+
+.caja1{
+	margin-bottom: 5px;
+}
+
+.caja2{
+	display: inline-block;
+	margin: 10px 0px 10px 10px;
+}
+
+.caja3{
+	display: inline-block;
+	margin: 10px 10px 10px 0px;
+}
+	
+
